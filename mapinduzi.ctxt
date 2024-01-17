@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=mapinduzi
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ mapinduzi\ here.\r\n\r\n\ @author\ (Ediga\ Shimwela-BITA/6/22/010/TZ)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name\ day\ month
+comment1.target=mapinduzi(java.lang.String,\ int,\ java.lang.String)
+comment2.params=name
+comment2.target=void\ setName(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=day
+comment4.target=void\ setDay(int)
+comment5.params=
+comment5.target=int\ getDay()
+comment6.params=month
+comment6.target=void\ setMonth(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getMonth()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
